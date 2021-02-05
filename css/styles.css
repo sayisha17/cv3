@@ -1,0 +1,48 @@
+body {background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style :dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #66BFBF;
+  letter-spacing: 3px;
+  text-shadow: 3px 3px 5px pink;
+}
+
+h3{
+  font-family: "helventica", sans-serif;
+  color: #66BFBF;
+}
+.background:hover{
+  color: gold;
+}
+.colour{
+  color:red;
+}
+/*.border{
+  background-color: yellow;
+  height: 500px;
+  width: 200px;
+  border-color: blue;
+  border-style: dashed;
+  border-bottom-color: red;
+  border-bottom-style: dotted;
+}
+.border:hover{
+  color:pink;
+}*/
+
+/*
+.border{
+  background-color: red;
+  border-style: none;
+  border:5px solid blue;
+  border-right-style:dotted;
+  border-top-width:2px;
+  box-shadow: 0 0 0 10px olive;
+}
+*/
